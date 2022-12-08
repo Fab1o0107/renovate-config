@@ -24,6 +24,10 @@
 			{
 				"matchPackagePatterns": ["@fab1o0107"],
 				"groupName": "Personal Dependencies"
+			},
+			{
+				"matchManagers": ["github-actions"],
+				"groupName": "GitHub Actions"
 			}
 		],
 		"rangeStrategy": "bump"
